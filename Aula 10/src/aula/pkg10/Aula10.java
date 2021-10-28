@@ -18,13 +18,15 @@ public class Aula10 {
         num2 = scan.nextInt();
         
         if (num1==num2){
-            System.out.println("Os números são iguais");
+            System.out.println("Os números são iguais.");
         } else if (num1>num2){
             System.out.println("O primeiro número é maior " + num1);
         } else {
             System.out.println("O segundo número é maior " + num2);
         }
         
+        scan.close();
+                
     }
     
 }
