@@ -20,6 +20,6 @@ public class Aula10 {
         } else {
             System.out.println("O segundo número é maior " + num2);
         }
+        scan.close();
     }
-    
 }
