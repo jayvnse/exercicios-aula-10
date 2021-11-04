@@ -24,5 +24,5 @@ public class exer4 {
         }
         
         scan.close();
-    }
+    } 
 }
